@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\client_tutorial\client_tutorial\bin\Debug\client_tutorial.exe.config
+C:\Users\User\source\repos\client_tutorial\client_tutorial\bin\Debug\client_tutorial.exe
+C:\Users\User\source\repos\client_tutorial\client_tutorial\bin\Debug\client_tutorial.pdb
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.csprojAssemblyReference.cache
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.Properties.Resources.resources
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.csproj.GenerateResource.cache
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.exe
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.pdb
+C:\Users\User\source\repos\client_tutorial\client_tutorial\obj\Debug\client_tutorial.frm_main.resources
