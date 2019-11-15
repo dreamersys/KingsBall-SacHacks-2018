@@ -10,3 +10,7 @@ to incoming signals from the users' phones.Then compile those data to a list of 
 
 I will upload the files of the game part as soon as I can
 1/1/2019 Jerry Kuo
+
+Edit:
+The scenes and scripts used in Unity are located in the Project file.
+15/11/2019 Nathan Ng
